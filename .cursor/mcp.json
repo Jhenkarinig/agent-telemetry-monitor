@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "jetro": {
+      "type": "stdio",
+      "command": "C:\\Users\\JHENKARINI G\\.jetro\\runtime\\node-win32-x64.exe",
+      "args": [
+        "C:\\Users\\JHENKARINI G\\.jetro\\mcp-server\\index.js"
+      ],
+      "env": {
+        "JET_WORKSPACE": "c:\\Users\\JHENKARINI G\\agent-telemetry-monitor",
+        "JET_API_URL": "https://api.jetro.ai",
+        "PATH": "C:\\Users\\JHENKARINI G\\.jetro\\runtime;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files\\dotnet\\;C:\\Program Files\\nodejs\\;C:\\Program Files\\MySQL\\MySQL Server 8.0\\bin;C:\\Program Files\\Docker\\Docker\\resources\\bin;C:\\xampp\\php;C:\\Program Files\\MongoDB\\mongosh-2.3.3-win32-x64\\bin;C:\\Program Files\\Git\\cmd;C:\\Program Files\\Java\\jdk1.8.0_181;C:\\Program Files\\Java\\jdk1.8.0_181\\bin;C:\\Users\\JHENKARINI G\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\;C:\\Users\\JHENKARINI G\\AppData\\Local\\Programs\\Python\\Python312\\;C:\\Users\\JHENKARINI G\\AppData\\Local\\Microsoft\\WindowsApps;C:\\MinGW\\bin;C:\\Users\\JHENKARINI G\\AppData\\Roaming\\npm;C:\\Users\\JHENKARINI G\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\JHENKARINI G\\AppData\\Local\\GitHubDesktop\\bin;C:\\Users\\JHENKARINI G\\.dotnet\\tools"
+      }
+    }
+  }
+}
